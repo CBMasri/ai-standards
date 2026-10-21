@@ -3,3 +3,6 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+
+# Local History plugin
+.history
