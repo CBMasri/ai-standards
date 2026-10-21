@@ -68,17 +68,17 @@ If you are asking for human attention, demonstrate human effort.
 
 These principles draw on ideas from a number of companies and people, listed below.
 
-- https://fleetdm.com/handbook/company/communications#ai-usage-guidelines
-- https://handbook.hmn.md/working-here/tools/ai-policy/
-- https://tombedor.dev/human-attention-and-human-effort/
-- https://gruhn.me/blog/2026-08-03/
-- https://www.rickmanelius.com/p/aidr-ai-didnt-read
-- https://dontpastetheai.com/
-- https://news.ycombinator.com/item?id=49371857
-- https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode
-- https://unstack.io/write-code-like-a-human-will-maintain-it
-- https://jellyfin.org/docs/general/contributing/llm-policies/
-- https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
-- https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+- <https://fleetdm.com/handbook/company/communications#ai-usage-guidelines>
+- <https://handbook.hmn.md/working-here/tools/ai-policy/>
+- <https://tombedor.dev/human-attention-and-human-effort/>
+- <https://gruhn.me/blog/2026-08-03/>
+- <https://www.rickmanelius.com/p/aidr-ai-didnt-read>
+- <https://dontpastetheai.com/>
+- <https://news.ycombinator.com/item?id=49371857>
+- <https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode>
+- <https://unstack.io/write-code-like-a-human-will-maintain-it>
+- <https://jellyfin.org/docs/general/contributing/llm-policies/>
+- <https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/>
+- <https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705>
 
 </aside>
