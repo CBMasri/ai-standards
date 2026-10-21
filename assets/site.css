@@ -9,20 +9,25 @@ body {
   margin: 0;
 }
 
+header {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 0;
+}
+
 main {
   max-width: 42rem;
   margin: 0 auto;
-  padding: 2.5rem 1.25rem 2rem;
+  padding: 1.5rem 1.25rem 2rem;
 }
 
 footer {
-  display: flex;
-  justify-content: space-between;
   max-width: 42rem;
   margin: 0 auto;
   padding: 0.5rem 1.25rem 3rem;
 }
 
+header a,
 footer a {
   font-family: system-ui, sans-serif;
   font-size: 0.85rem;
