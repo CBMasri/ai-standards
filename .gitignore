@@ -1,2 +1,5 @@
-node_modules/
-build/
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/

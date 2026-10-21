@@ -1,3 +1,9 @@
+---
+layout: default
+title: AI Standards
+permalink: /
+---
+
 # AI Standards
 
 AI is a powerful tool, and we encourage everyone to use it. It can help us work faster, explore more ideas, solve problems we might otherwise get stuck on, and spend more of our time on the things that require human expertise.
@@ -56,6 +62,8 @@ The same goes when asking for help or feedback. You don’t need to exhaust ever
 
 If you are asking for human attention, demonstrate human effort.
 
+<aside class="reading" markdown="1">
+
 ## Inspiration and recommended reading
 
 These principles draw on ideas from a number of companies and people, listed below.
@@ -72,3 +80,5 @@ These principles draw on ideas from a number of companies and people, listed bel
 - https://jellyfin.org/docs/general/contributing/llm-policies/
 - https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
 - https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+
+</aside>

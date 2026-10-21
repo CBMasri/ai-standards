@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <a class="home" href="{{ '/' | relative_url }}">AI standards</a>
+  </header>
+  <main>
+{{ content }}
+  </main>
+  {% if page.path == "standards.md" %}
+  <footer>
+    <a href="{{ site.github.repository_url | default: 'https://github.com/CBMasri/ai-standards' }}/edit/main/{{ page.path }}">Edit source</a>
+  </footer>
+  {% endif %}
+</body>
+</html>
