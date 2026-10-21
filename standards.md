@@ -1,9 +1,3 @@
----
-layout: default
-title: AI Standards
-permalink: /
----
-
 # AI Standards
 
 AI is a powerful tool, and I'd encourage everyone to use it. It can help us work faster, explore more ideas, solve problems we might otherwise get stuck on, and spend more of our time on the things that require human expertise.

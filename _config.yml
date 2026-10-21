@@ -9,6 +9,10 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "standards.md"
+    values:
+      permalink: /
 
 exclude:
   - README.md

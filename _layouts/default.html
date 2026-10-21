@@ -7,16 +7,12 @@
   <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <a class="home" href="{{ '/' | relative_url }}">AI standards</a>
-  </header>
   <main>
 {{ content }}
   </main>
-  {% if page.path == "standards.md" %}
   <footer>
-    <a href="{{ site.github.repository_url | default: 'https://github.com/CBMasri/ai-standards' }}/edit/main/{{ page.path }}">Edit source</a>
+    <a href="https://github.com/CBMasri">@CBMasri</a>
+    <a href="https://github.com/CBMasri/ai-standards">ai-standards</a>
   </footer>
-  {% endif %}
 </body>
 </html>
