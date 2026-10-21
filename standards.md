@@ -6,11 +6,11 @@ permalink: /
 
 # AI Standards
 
-AI is a powerful tool, and we encourage everyone to use it. It can help us work faster, explore more ideas, solve problems we might otherwise get stuck on, and spend more of our time on the things that require human expertise.
+AI is a powerful tool, and I'd encourage everyone to use it. It can help us work faster, explore more ideas, solve problems we might otherwise get stuck on, and spend more of our time on the things that require human expertise.
 
-We want to get the most out of these tools without giving up the things that make us good at what we do. It’s important that we use AI to make us more capable, not less thoughtful, less accountable, or less human in how we work with each other.
+As we adapt to this new way of working, it's important that we don't lose sight of the things that make us good at what we do. Using AI should make you more capable, but not less thoughtful, less accountable, or less human in how we work with each other.
 
-These are not suggestions or guidelines. Much like our values, the following standards define our culture around AI usage. When you use AI, these are the principles you’re expected to uphold.
+When you use AI, these are the principles I'd encourage you to uphold.
 
 ## Own the output.
 
