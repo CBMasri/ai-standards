@@ -1,7 +1,8 @@
 # AI Standards
 
-Standards for using AI without giving up judgment, accountability, or the human part of working with other people.
+This repository contains a set of AI standards that anyone can share or adapt.
 
-The published site is [cbmasri.github.io/ai-standards](https://cbmasri.github.io/ai-standards/).
+As we continue to adjust to this new way of working, each company and individual gets to determine the role AI should play in their work. These standards reflect my philosophy on what constitutes acceptable AI usage.
 
-The source is [`standards.md`](standards.md). GitHub Pages builds and publishes it with Jekyll.
+A hosted version can be found here:
+[cbmasri.github.io/ai-standards](https://cbmasri.github.io/ai-standards/).
